@@ -1,6 +1,6 @@
 # telegramBot2
 
-# Wikipedia-бот. Gо введенному слову выдает статью на Википедии.
+# Wikipedia-бот. По введенному слову выдает статью на Википедии.
 
 import telebot, wikipedia, re
 from config import token
